@@ -18,9 +18,9 @@ Thid program running will be like:
 >oooo              
 >oooooooooooooooo  
 >oooooooooooooooo  
-><font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspoooo</font>  
-><font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspoooo</font>  
-><font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspoooo</font>  
-><font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspoooo</font>  
+><font>            oooo</font>  
+><font>            oooo</font>  
+><font>            oooo</font>  
+><font>            oooo</font>  
 >oooooooooooooooo  
 >oooooooooooooooo
